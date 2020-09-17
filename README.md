@@ -1,3 +1,4 @@
 # Try
-https://aliaksandrow.github.io/rsschool-cv/cv 
-https://aliaksandrow.github.io/rsschool-cv/
+https://aliaksandrow.github.io/Try/cv
+
+https://aliaksandrow.github.io/Try/.
